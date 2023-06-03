@@ -1,4 +1,4 @@
-# League of Legends Replays Analysis
+Replays Analysis
 
 This project aims to analyze game replays from the popular online game League of Legends. The script provided in this repository, `replays_analysis.ipynb`, utilizes web scraping techniques to gather data from the website "www.leagueofgraphs.com" and perform various analyses on the collected information.
 
